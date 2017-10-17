@@ -1995,6 +1995,43 @@ body {
   color: #232323;
   text-align: left;
 }
+.cid-qyklaj4M1S {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f9f9f9;
+}
+.cid-qyklaj4M1S .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qyklaj4M1S .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-qyklaj4M1S .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-qyklaj4M1S .team-item .item-image img {
+  width: 100%;
+}
+.cid-qyklaj4M1S .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-qyklaj4M1S .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-qyklaj4M1S .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cid-qyklaj4M1S .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-qyklaj4M1S .team-item .item-caption {
+  background: #efefef;
+}
 .cid-qyjXAAWbqe {
   padding-top: 0px;
   padding-bottom: 0px;
